@@ -29,6 +29,7 @@ It improves throughput and reduces memory usage with minimal accuracy drop.
 - **Memory Usage Reduction**  
   Shrinks KV cache size during decoding, enabling longer generations under memory constraints.
 
+### Key Results
 <div align=center>
 <img width=100% src="./images/accuracy.png"/>
 </div>
