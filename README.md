@@ -32,7 +32,7 @@ It improves throughput and reduces memory usage with minimal accuracy drop.
 
 ### Key Results
 <div align=center>
-<img width=100% src="./images/accuracy.png"/>
+<img width=90% src="./images/accuracy.png"/>
 </div>
 
 <div align=center>
