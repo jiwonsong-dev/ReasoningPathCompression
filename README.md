@@ -1,5 +1,7 @@
 # Reasoning Path Compression: Compressing Generation Trajectories for Efficient LLM Reasoning
 
+Official implementation of **"Reasoning Path Compression: Compressing Generation Trajectories for Efficient LLM Reasoning"**
+
 <p align="middle">
     <a href="https://arxiv.org/abs/2505.13866"><img src="https://img.shields.io/badge/arXiv-2505.013866-b31b1b.svg" alt="arXiv"/></a>
 </p>
@@ -8,7 +10,6 @@
 <img width=100% src="./images/overview.png"/>
 </div>
 
-This is a official repository of **"Reasoning Path Compression: Compressing Generation Trajectories for Efficient LLM Reasoning"**.
 **RPC** is a *training-free* method for accelerating inference of reasoning language models by leveraging the semantic sparsity of generated reasoning paths. 
 It improves throughput and reduces memory usage with minimal accuracy drop.
 
