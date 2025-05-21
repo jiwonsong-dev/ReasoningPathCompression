@@ -73,7 +73,7 @@ It improves throughput and reduces memory usage with minimal accuracy drop.
 Our codes for running evaluation and scoring the results are based on [QwQ](https://github.com/QwenLM/QwQ) repository.
 
 ## Citation
-If you use the RPC approach in your research, please consider citing:
+If you want find your research relevant to Reasoning Path Compression, please cite our work:
 
 ```
 @article{rpc,
