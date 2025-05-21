@@ -1,5 +1,9 @@
 # Reasoning Path Compression
 
+<p align="middle">
+    <a href="https://arxiv.org/abs/2502.01068"><img src="https://img.shields.io/badge/arXiv-2505.013866-b31b1b.svg" alt="arXiv"/></a>
+</p>
+
 ## Installation
 
     git clone https://github.com/jiwonsong-dev/ReasoningPathCompression.git
