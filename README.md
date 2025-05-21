@@ -72,3 +72,14 @@ It improves throughput and reduces memory usage with minimal accuracy drop.
 ## Acknowledgements
 Our codes for running evaluation and scoring the results are based on [QwQ](https://github.com/QwenLM/QwQ) repository.
 
+## Citation
+If you use the RPC approach in your research, please consider citing:
+
+```
+@article{rpc,
+  title={Reasoning Path Compression: Compressing Generation Trajectories for Efficient LLM Reasoning},
+  author={Jiwon Song, Dongwon Jo, Yulhwa Kim, Jae-Joon Kim},
+  journal={arXiv preprint arXiv:2505.13866},
+  year={2025}
+  }
+```
