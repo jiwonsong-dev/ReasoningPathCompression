@@ -47,7 +47,7 @@ def gen_example(model_path: str = "deepseek-ai/DeepSeek-R1-Distill-Qwen-7B",
     if rpc:
         set_rpc_config(model=model,
                             P=P,
-                            R=32,
+                            R=R,
                             c=4,
                             selectors=selectors,
                             aggregation=aggregation,
