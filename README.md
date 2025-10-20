@@ -32,6 +32,11 @@ It improves throughput and reduces memory usage with minimal accuracy drop.
   Shrinks KV cache size during decoding, enabling longer generations under memory constraints.
 
 ### Key Results
+
+<div align=center>
+<img width=90% src="./images/redundancy.png"/>
+</div>
+
 <div align=center>
 <img width=90% src="./images/accuracy.png"/>
 </div>
