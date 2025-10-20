@@ -34,7 +34,7 @@ It improves throughput and reduces memory usage with minimal accuracy drop.
 ### Key Results
 
 <div align=center>
-<img width=90% src="./images/redundancy.png"/>
+<img width=90% src="./images/redundancy_rate.png"/>
 </div>
 
 <div align=center>
