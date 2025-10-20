@@ -5,7 +5,7 @@
 </p>
 
 
-Official implementation of **"Reasoning Path Compression: Compressing Generation Trajectories for Efficient LLM Reasoning"**
+Official implementation of the NeurIPS 2025 paper **"Reasoning Path Compression: Compressing Generation Trajectories for Efficient LLM Reasoning"**
 
 <div align=center>
 <img width=100% src="./images/overview.png"/>
